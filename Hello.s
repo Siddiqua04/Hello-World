@@ -2,4 +2,6 @@
 Void main()
 {
  Printf("FYCS");
+ Printf("SYCS");
 }
+
